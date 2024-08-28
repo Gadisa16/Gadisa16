@@ -1,4 +1,5 @@
-<div align="center" style="background-image: url('./bg-image.png'); background-size: cover; background-position: center; padding: 50px; color: white;">
+<div align="center">
+  <img src="./bg-image.png" alt="Banner" style="width: 100%; height: auto;" />
   <h1>Hi 👋, I'm Gadisa Kanchora</h1>
 </div>
 
