@@ -1,9 +1,8 @@
 <div align="center">
   <img src="./bg-image.png" alt="Banner" style="width: 100%; height: auto;" />
-  <h1>Hi 👋, I'm Gadisa Kanchora</h1>
 </div>
 
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h2 align="center">A passionate web developer from Ethiopia</h2>
 
 <h3 align="left">🏆 Achievements & Learning Journey</h3>
 <ul>
