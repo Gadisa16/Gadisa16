@@ -25,7 +25,7 @@
 
 _ _ _
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://gado16.netlify.app/)
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://gado16.netlify.app/)
 
 - 📫 How to reach me: **gadisakan@gmail.com**
 
