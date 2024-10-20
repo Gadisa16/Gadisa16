@@ -139,6 +139,9 @@ _ _ _
   <a href="https://github.com/reduxjs/redux-devtools" target="_blank" rel="noreferrer">
     <img src="https://lh3.googleusercontent.com/yQq2WZi9-iZeUuBwJkrLq-7KVnaB_aIBgP8uqjT3vdIi6HC5v7Vni83rTQtk-WuSiZ_jcQ3I1hmXB03DNVFGX5nRcw=s60" alt="Redux DevTools" width="40" height="40"/>
   </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
+  </a>
 
 </p>
 
