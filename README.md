@@ -89,7 +89,8 @@ _ _ _
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://redux-toolkit.js.org/img/redux-logo.png" alt="Redux Toolkit" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
+    <span>RTK</span>
   </a>
 </p>
 
@@ -136,7 +137,7 @@ _ _ _
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
   </a>
   <a href="https://github.com/reduxjs/redux-devtools" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/reduxjs/redux-devtools/master/logo/redux-devtools-logo.png" alt="Redux DevTools" width="40" height="40"/>
+    <img src="https://lh3.googleusercontent.com/yQq2WZi9-iZeUuBwJkrLq-7KVnaB_aIBgP8uqjT3vdIi6HC5v7Vni83rTQtk-WuSiZ_jcQ3I1hmXB03DNVFGX5nRcw=s60" alt="Redux DevTools" width="40" height="40"/>
   </a>
 
 </p>
