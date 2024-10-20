@@ -85,6 +85,12 @@ _ _ _
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://redux-toolkit.js.org/img/redux-logo.png" alt="Redux Toolkit" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Backend Development:</h3>
@@ -129,6 +135,10 @@ _ _ _
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
   </a>
+  <a href="https://github.com/reduxjs/redux-devtools" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/reduxjs/redux-devtools/master/logo/redux-devtools-logo.png" alt="Redux DevTools" width="40" height="40"/>
+  </a>
+
 </p>
 
 ---
