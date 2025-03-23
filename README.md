@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./bg-image.png" alt="Banner" style="width: 100%; height: auto;" />
+  <h1 align="center">Hi 👋, I'm Gadisa Kanchora</h1>
 </div>
 
 <h2 align="center">A passionate web developer from Ethiopia</h2>
