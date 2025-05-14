@@ -117,7 +117,7 @@ _ _ _
       alt="Flask" width="40" height="40" />
   </a>
  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/aws-samples/aws-serverless-workshops/master/images/dynamo.png" alt="DynamoDB" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?logo=amazonaws&logoColor=white" alt="DynamoDB" />
 </a>
 </p>
 
