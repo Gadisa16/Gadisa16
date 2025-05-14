@@ -25,11 +25,9 @@
 
 _ _ _
 
-- 👨‍💻 Some of my projects are available at [My Portfolio](https://gado16.netlify.app/)
-
 - 📫 How to reach me: **gadisakan@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://gado16.netlify.app/myf_flowcv.pdf)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1AwgeevJ2PXK8vr3TVk5xMvOCrgjfPyE6/view?usp=drive_link)
 
 ---
 
