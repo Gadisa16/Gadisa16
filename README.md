@@ -5,7 +5,7 @@
 <h2 align="center">A passionate web developer from Ethiopia</h2>
 
 <h3 align="left">🏆 Achievements & Learning Journey</h3>
-<ul>
+<ul style="list-style-type: none;">
   <li>
     🌱<strong>Learning a Bachelor's degree in Computer Science at Addis Ababa University</strong>
   </li>
@@ -14,12 +14,14 @@
     <p>- Gained hands-on experience with MongoDB, Express.js, React, and Node.js.</p>
   </li>
   <li>
-    📚 <strong>Learning Data Structures and Algorithms</strong> at <a href="https://a2sv.org/" target="_blank" rel="noreferrer">African to Silicon Valley (A2SV)</a>
-    <p>- Enhancing problem-solving skills and mastering efficient algorithms.</p>
+    📚 <strong>Completed Data Structures and Algorithms Training</strong> at <a href="https://a2sv.org/" target="_blank" rel="noreferrer">African to Silicon Valley (A2SV)</a>
+    <p>- Strengthened problem-solving skills by mastering efficient algorithms and data structures
+      through intensive training and real-world challenges.</p>
   </li>
   <li>
-    🌱 <strong>Studying Frontend Web Development</strong> at <a href="https://a2sv.org/" target="_blank" rel="noreferrer">African to Silicon Valley (A2SV)</a>
-    <p>- Focusing on modern frontend technologies and best practices.</p>
+    🌱 <strong>Completed Frontend Web Development Program</strong> at <a href="https://a2sv.org/" target="_blank" rel="noreferrer">African to Silicon Valley (A2SV)</a>
+    <p>- Gained hands-on experience with modern frontend technologies, design systems, and best
+      practices including Next.js, TypeScript, and Tailwind CSS.</p>
   </li>
 </ul>
 
@@ -108,6 +110,15 @@ _ _ _
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"
+      alt="Flask" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_dynamodb/amazon_dynamodb-icon.svg"
+      alt="DynamoDB" width="40" height="40" />
   </a>
 </p>
 
