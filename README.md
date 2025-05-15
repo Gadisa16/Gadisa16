@@ -149,7 +149,7 @@ _ _ _
 ---
 
 <p align="center">
-  <img src="https://your-vercel-project.vercel.app/api?username=gadisa16&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-6mpe.vercel.app/api?username=gadisa16&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Gadisa Kanchora's GitHub stats" />
 
 </p>
 
