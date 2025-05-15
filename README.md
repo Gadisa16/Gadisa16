@@ -5,7 +5,7 @@
 <h2 align="center">A passionate web developer from Ethiopia</h2>
 
 <h3 align="left">🏆 Achievements & Learning Journey</h3>
-<ul style="list-style-type: none;">
+<ul style="list-style-type: none !important;">
   <li>
     🌱<strong>Learning a Bachelor's degree in Computer Science at Addis Ababa University</strong>
   </li>
@@ -26,11 +26,7 @@
 </ul>
 
 _ _ _
-
 - 📫 How to reach me: **gadisakan@gmail.com**
-
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1AwgeevJ2PXK8vr3TVk5xMvOCrgjfPyE6/view?usp=drive_link)
-
 ---
 
 <h3 align="left">Connect with me:</h3>
