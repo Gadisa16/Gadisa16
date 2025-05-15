@@ -1,47 +1,40 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Gadisa Kanchora</h1>
+  <h1>Hi 👋, I'm Gadisa Kanchora</h1>
 </div>
 
 <h2 align="center">A passionate web developer from Ethiopia</h2>
 
-<h3 align="left">🏆 Achievements & Learning Journey</h3>
-<ul style="list-style-type: none !important;">
-  <li style="margin-bottom:16px;">
-    🌱<strong>Learning a Bachelor's degree in Computer Science at Addis Ababa University</strong>
-  </li>
-  <li>
-    🎓 <strong>Completed MERN Stack Bootcamp at Evangadi Tech</strong>
-    <p style="margin-top:0;">- Gained hands-on experience with MongoDB, Express.js, React, and Node.js.</p>
-  </li>
-  <li>
-    📚 <strong>Completed Data Structures and Algorithms Training</strong> at <a href="https://a2sv.org/" target="_blank" rel="noreferrer">African to Silicon Valley (A2SV)</a>
-    <p style="margin-top:0;">- Strengthened problem-solving skills by mastering efficient algorithms and data structures
-      through intensive training and real-world challenges.</p>
-  </li>
-  <li>
-    🌱 <strong>Completed Frontend Web Development Program</strong> at <a href="https://a2sv.org/" target="_blank" rel="noreferrer">African to Silicon Valley (A2SV)</a>
-    <p style="margin-top:0;">- Gained hands-on experience with modern frontend technologies, design systems, and best
-      practices including Next.js, TypeScript, and Tailwind CSS.</p>
-  </li>
-</ul>
+## 🏆 Achievements & Learning Journey
 
-_ _ _
-- 📫 How to reach me: **gadisakan@gmail.com**
+- 🌱 **Learning a Bachelor's degree in Computer Science at Addis Ababa University**
+- 🎓 **Completed MERN Stack Bootcamp at Evangadi Tech**  
+  Gained hands-on experience with MongoDB, Express.js, React, and Node.js.
+- 📚 **Completed Data Structures and Algorithms Training** at [A2SV](https://a2sv.org/)  
+  Strengthened problem-solving skills by mastering efficient algorithms and data structures through intensive training and real-world challenges.
+- 🌱 **Completed Frontend Web Development Program** at [A2SV](https://a2sv.org/)  
+  Gained hands-on experience with modern frontend technologies, design systems, and best practices including Next.js, TypeScript, and Tailwind CSS.
+
 ---
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me: **gadisakan@gmail.com**
+
+---
+
+## Connect with me:
+
 <p align="left">
-  <a href="https://linkedin.com/in/gadisa16" target="blank">
+  <a href="https://linkedin.com/in/gadisa16" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/gadisakanchora/" target="blank">
+  <a href="https://leetcode.com/u/gadisakanchora/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages:</h3>
+## Languages:
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -60,12 +53,12 @@ _ _ _
   </a>
 </p>
 
-<h3 align="left">Frontend Development:</h3>
-<p align="left">
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-    </a>
+## Frontend Development:
 
+<p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
@@ -75,7 +68,7 @@ _ _ _
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -85,12 +78,12 @@ _ _ _
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-    <span>RTK</span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="left">Backend Development:</h3>
+## Backend Development:
+
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -100,7 +93,7 @@ _ _ _
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
+  </a DEVELOPMENT:
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
@@ -108,16 +101,15 @@ _ _ _
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"
-      alt="Flask" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
   </a>
- <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?logo=amazonaws&logoColor=white" alt="DynamoDB" />
-</a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?logo=amazonaws&logoColor=white" alt="DynamoDB" />
+  </a>
 </p>
 
-<h3 align="left">Tools & Platforms:</h3>
+## Tools & Platforms:
+
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22099-thumb.png" alt="REST API" width="40" height="40"/>
@@ -143,23 +135,13 @@ _ _ _
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="40" height="40"/>
   </a>
-
 </p>
 
 ---
 
-<!--<p align="center">
-  <img src="https://github-readme-stats-96tl.vercel.app/api?username=gadisa16&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
-    alt="Gadisa Kanchora's GitHub stats" />
-</p> -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadisa16&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gadisa16&theme=radical" alt="GitHub Trophies" />
-</p> -->
 
 ---
 
