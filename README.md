@@ -6,21 +6,21 @@
 
 <h3 align="left">🏆 Achievements & Learning Journey</h3>
 <ul style="list-style-type: none !important;">
-  <li>
+  <li style="margin-bottom:16px;">
     🌱<strong>Learning a Bachelor's degree in Computer Science at Addis Ababa University</strong>
   </li>
   <li>
     🎓 <strong>Completed MERN Stack Bootcamp at Evangadi Tech</strong>
-    <p>- Gained hands-on experience with MongoDB, Express.js, React, and Node.js.</p>
+    <p style="margin-top:0;">- Gained hands-on experience with MongoDB, Express.js, React, and Node.js.</p>
   </li>
   <li>
     📚 <strong>Completed Data Structures and Algorithms Training</strong> at <a href="https://a2sv.org/" target="_blank" rel="noreferrer">African to Silicon Valley (A2SV)</a>
-    <p>- Strengthened problem-solving skills by mastering efficient algorithms and data structures
+    <p style="margin-top:0;">- Strengthened problem-solving skills by mastering efficient algorithms and data structures
       through intensive training and real-world challenges.</p>
   </li>
   <li>
     🌱 <strong>Completed Frontend Web Development Program</strong> at <a href="https://a2sv.org/" target="_blank" rel="noreferrer">African to Silicon Valley (A2SV)</a>
-    <p>- Gained hands-on experience with modern frontend technologies, design systems, and best
+    <p style="margin-top:0;">- Gained hands-on experience with modern frontend technologies, design systems, and best
       practices including Next.js, TypeScript, and Tailwind CSS.</p>
   </li>
 </ul>
@@ -148,18 +148,18 @@ _ _ _
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats-96tl.vercel.app/api?username=gadisa16&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
     alt="Gadisa Kanchora's GitHub stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadisa16&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gadisa16&theme=radical" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
