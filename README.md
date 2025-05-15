@@ -7,7 +7,7 @@
 ## 🏆 Achievements & Learning Journey
 
 - 🌱 **Learning a Bachelor's degree in Computer Science at Addis Ababa University**
-- 🎓 **Completed MERN Stack Bootcamp at ** [Evangadi Tech](https://evangadi.com/)
+- 🎓 **Completed MERN Stack Bootcamp** at [Evangadi Tech](https://evangadi.com/)
   Gained hands-on experience with MongoDB, Express.js, React, and Node.js.
 - 📚 **Completed Data Structures and Algorithms Training** at [African to Silicon Valley (A2SV)](https://a2sv.org/)  
   Strengthened problem-solving skills by mastering efficient algorithms and data structures through intensive training and real-world challenges.
