@@ -140,13 +140,13 @@
 </p>
 
 ---
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats-96tl.vercel.app/api?username=gadisa16&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
     alt="Gadisa Kanchora's GitHub stats" />
-</p>
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadisa16&layout=compact&theme=radical" alt="Top Languages" />
 </p>-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadisa16&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 <!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gadisa16&theme=radical" alt="GitHub Trophies" />
 </p> -->
