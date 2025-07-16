@@ -12,7 +12,7 @@
   - Gained hands-on experience with MongoDB, Express.js, React, and Node.js.
 
 - 📚 **Software Engineer** at [African to Silicon Valley (A2SV)](https://a2sv.org/)  
-  - Completed intensive Data Structures and Algorithms training, mastering efficient algorithms and data structures to enhance problem-solving skills through real-world challenges.
+  - Completed an intensive Data Structures and Algorithms program focused on writing optimized, scalable code and mastering best practices to solve complex, real-world problems efficiently.
   - Web Development Program, gaining hands-on experience with modern technologies including Next.js, TypeScript, and Tailwind CSS, while applying design systems and best practices.
 ---
 
