@@ -9,13 +9,11 @@
 - 🌱 **Graduate of Computer Science from Addis Ababa University**
 
 - 🎓 **Completed MERN Stack Bootcamp** at [Evangadi Tech](https://evangadi.com/)  
-  Gained hands-on experience with MongoDB, Express.js, React, and Node.js.
+  - Gained hands-on experience with MongoDB, Express.js, React, and Node.js.
 
-- 📚 **Completed Data Structures and Algorithms Training** at [African to Silicon Valley (A2SV)](https://a2sv.org/)  
-  Strengthened problem-solving skills by mastering efficient algorithms and data structures through intensive training and real-world challenges.
-
-- 🌱 **Completed Frontend Web Development Program** at [African to Silicon Valley (A2SV)](https://a2sv.org/)  
-  Gained hands-on experience with modern frontend technologies, design systems, and best practices including Next.js, TypeScript, and Tailwind CSS.
+- 📚 **Software Engineer** at [African to Silicon Valley (A2SV)](https://a2sv.org/)  
+  - Completed intensive Data Structures and Algorithms training, mastering efficient algorithms and data structures to enhance problem-solving skills through real-world challenges.
+  - Web Development Program, gaining hands-on experience with modern technologies including Next.js, TypeScript, and Tailwind CSS, while applying design systems and best practices.
 ---
 
 - 📫 How to reach me: **gadisakan@gmail.com**
