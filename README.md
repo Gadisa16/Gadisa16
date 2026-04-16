@@ -1,157 +1,131 @@
 <div align="center">
-  <h1>Hi 👋, I'm Gadisa Kanchora</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gadisa+Kanchora;Full+Stack+Engineer+%7C+AI+%7C+Cloud;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
 </div>
 
-<h2 align="center">A passionate web developer from Ethiopia</h2>
-
-## 🏆 Achievements & Learning Journey
-
-- 🌱 **Graduate of Computer Science from Addis Ababa University**
-
-- 🎓 **Completed MERN Stack Bootcamp** at [Evangadi Tech](https://evangadi.com/)  
-  - Gained hands-on experience with MongoDB, Express.js, React, and Node.js.
-
-- 📚 **Software Engineer** at [African to Silicon Valley (A2SV)](https://a2sv.org/)  
-  - Completed an intensive Data Structures and Algorithms program focused on writing optimized, scalable code and mastering best practices to solve complex, real-world problems efficiently.
-  - Web Development Program, gaining hands-on experience with modern technologies including Next.js, TypeScript, and Tailwind CSS, while applying design systems and best practices.
----
-
-- 📫 How to reach me: **gadisakan@gmail.com**
-
----
-
-## Connect with me:
-
-<p align="left">
+<div align="center">
   <a href="https://linkedin.com/in/gadisa16" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gadisakan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://leetcode.com/u/gadisakanchora/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-</p>
+  <a href="https://github.com/gadisa16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://gadisaportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gadisa16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/gadisa16?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
 ---
 
-## Languages:
+### 🧠 Profile
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-</p>
-
-## Frontend Development:
-
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
-  </a>
-</p>
-
-## Backend Development:
-
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a DEVELOPMENT:
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?logo=amazonaws&logoColor=white" alt="DynamoDB" />
-  </a>
-</p>
-
-## Tools & Platforms:
-
-<p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22099-thumb.png" alt="REST API" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/reduxjs/redux-devtools" target="_blank" rel="noreferrer">
-    <img src="https://lh3.googleusercontent.com/yQq2WZi9-iZeUuBwJkrLq-7KVnaB_aIBgP8uqjT3vdIi6HC5v7Vni83rTQtk-WuSiZ_jcQ3I1hmXB03DNVFGX5nRcw=s60" alt="Redux DevTools" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" width="40" height="40"/>
-  </a>
-</p>
+> **Full Stack Engineer** with 3+ years of experience delivering production‑grade web applications, AI‑powered systems, and cloud infrastructure. I bridge the gap between frontend elegance and backend resilience—architecting clean, scalable solutions from idea to deployment. **430+ algorithmic problems solved** on LeetCode, reflecting a deep commitment to efficient, maintainable code.
 
 ---
-<!--<p align="center">
-  <img src="https://github-readme-stats-96tl.vercel.app/api?username=gadisa16&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
-    alt="Gadisa Kanchora's GitHub stats" />
-</p>-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadisa16&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gadisa16&theme=radical" alt="GitHub Trophies" />
-</p> -->
+
+### ⚡ Tech Stack
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI / ML**
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-0052CC?style=flat-square&logo=pinecone&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 ---
+
+### 💼 Experience
+
+*   **Full Stack Engineer (Backend‑Leaning)** @ *Digital Balance* `(Nov 2025 – Present)`
+    *   Own backend development for a production SaaS platform, building APIs with FastAPI and Next.js.
+*   **Full Stack Engineer (Freelance)** @ *Upwork* `(Aug 2025 – Present)`
+    *   Deliver full‑stack systems end‑to‑end; built email infrastructure (Mailcow) with DNS optimization.
+*   **Software Engineer** @ *A2SV (Africa to Silicon Valley)* `(Feb 2024 – Dec 2024)`
+    *   Solved complex algorithmic problems alongside engineers from Google, Amazon, Bloomberg.
+*   **Web Developer** @ *ReiSearch* `(Dec 2024 – May 2025)`
+    *   Improved page load speed by ~30% and reduced route load times by ~35% for a US real estate platform.
+
+---
+
+### 🚀 Featured Projects
+
+*   **📧 Custom Email Infrastructure** – Deployed full SMTP/IMAP system with Mailcow, SPF, DKIM, DMARC for high deliverability.
+*   **🤖 AI Legal Assistant (RAG on Azure)** – Built a citation‑grounded AI assistant using RAG pipelines with FastAPI, Azure OpenAI, and OCR.
+*   **🛍️ Full‑Stack E‑commerce** – Integrated Stripe payments, modular REST API, and Firebase for rapid prototyping (React, Node.js).
+*   **📱 AI Focus Training App** – Productivity app built with React, TypeScript, Redux Toolkit, and AI‑enhanced features.
+
+---
+
+### 🏅 Achievements & Education
+
+*   **✅ 430+ LeetCode problems solved** – strong DSA foundation.
+*   **✅ Selected into A2SV** (Google‑backed program for top African talent).
+*   **🎓 B.Sc. Computer Science** – Addis Ababa University (Top 10 in Africa).
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/gadisa16/github-profile-readme-generator">
-    <img src="https://komarev.com/ghpvc/?username=gadisa16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/gadisa16">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gadisa16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadisa16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadisa16&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6C2C&currStreakLabel=00E5FF" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <i>Open to collaborations, freelance opportunities, and tech discussions.</i><br/>
+  <b>📍 Addis Ababa, Ethiopia</b> &nbsp;|&nbsp; <b>📧 gadisakan@gmail.com</b>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gadisa16/gadisa16/output/snake.svg" alt="Snake animation" />
+</div>
