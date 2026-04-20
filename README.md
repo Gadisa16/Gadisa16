@@ -31,7 +31,7 @@
 
 ### 🧠 Profile
 
-> **Full Stack Engineer** with 4 years of experience delivering production‑grade web applications, AI‑powered systems, and cloud infrastructure. I bridge the gap between frontend elegance and backend resilience, architecting clean, scalable solutions from idea to deployment. **430+ algorithmic problems solved** on LeetCode, reflecting a deep commitment to efficient, maintainable code.
+> **Full Stack Engineer** with 4 years of experience delivering production‑grade web applications, AI‑powered systems, and cloud infrastructure. I bridge the gap between frontend elegance and backend resilience, architecting clean, scalable solutions from idea to deployment. **440+ algorithmic problems solved** on LeetCode, reflecting a deep commitment to efficient, maintainable code.
 
 ---
 
@@ -98,7 +98,7 @@
 
 ### 🏅 Achievements & Education
 
-*   **✅ 430+ LeetCode problems solved** – strong DSA foundation.
+*   **✅ 440+ LeetCode problems solved** – strong DSA foundation.
 *   **✅ Selected into A2SV** (Google‑backed program for top African talent).
 *   **🎓 B.Sc. Computer Science** – Addis Ababa University (Top 10 in Africa).
 
