@@ -31,7 +31,7 @@
 
 ### 🧠 Profile
 
-> **Full Stack Engineer** with 4+ years of experience delivering production‑grade web applications, AI‑powered systems, and cloud infrastructure. I bridge the gap between frontend elegance and backend resilience—architecting clean, scalable solutions from idea to deployment. **430+ algorithmic problems solved** on LeetCode, reflecting a deep commitment to efficient, maintainable code.
+> **Full Stack Engineer** with 4 years of experience delivering production‑grade web applications, AI‑powered systems, and cloud infrastructure. I bridge the gap between frontend elegance and backend resilience—architecting clean, scalable solutions from idea to deployment. **430+ algorithmic problems solved** on LeetCode, reflecting a deep commitment to efficient, maintainable code.
 
 ---
 
