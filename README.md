@@ -103,12 +103,12 @@
 
 ### 📊 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/gadisa16">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gadisa16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadisa16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
   </a>
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadisa16&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6C2C&currStreakLabel=00E5FF" alt="GitHub Streak" />
