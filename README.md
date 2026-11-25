@@ -73,31 +73,31 @@
 
 ### 💼 Experience
 
-*   **Full Stack Engineer (Backend‑Leaning)** @ *Digital Balance* `(Nov 2025 – Present)`
-    *   Own backend development for a production SaaS platform, building APIs with FastAPI and Next.js.
-*   **Full Stack Engineer (Freelance)** @ *Upwork* `(Aug 2025 – Present)`
-    *   Deliver full‑stack systems end‑to‑end; built email infrastructure (Mailcow) with DNS optimization.
-*   **Software Engineer** @ *A2SV (Africa to Silicon Valley)* `(Feb 2024 – Dec 2024)`
-    *   Solved complex algorithmic problems alongside engineers from Google, Amazon, Bloomberg.
-*   **Web Developer** @ *ReiSearch* `(Dec 2024 – May 2025)`
-    *   Improved page load speed by ~30% and reduced route load times by ~35% for a US real estate platform.
+-   **Full Stack Engineer (Backend‑Leaning)** @ *Digital Balance* `(Nov 2025 – Present)`
+  -   Own backend development for a production SaaS platform, building APIs with FastAPI and Next.js.
+-   **Full Stack Engineer (Freelance)** @ *Upwork* `(Aug 2025 – Present)`
+  -   Deliver full‑stack systems end‑to‑end; built email infrastructure (Mailcow) with DNS optimization.
+-   **Software Engineer** @ *A2SV (Africa to Silicon Valley)* `(Feb 2024 – Dec 2024)`
+  -   Solved complex algorithmic problems alongside engineers from Google, Amazon, Bloomberg.
+-   **Web Developer** @ *ReiSearch* `(Dec 2024 – May 2025)`
+  -   Improved page load speed by ~30% and reduced route load times by ~35% for a US real estate platform.
 
 ---
 
 ### 🚀 Featured Projects
 
-*   **📧 Custom Email Infrastructure** – Deployed full SMTP/IMAP system with Mailcow, SPF, DKIM, DMARC for high deliverability.
-*   **🤖 AI Legal Assistant (RAG on Azure)** – Built a citation‑grounded AI assistant using RAG pipelines with FastAPI, Azure OpenAI, and OCR.
-*   **🛍️ Full‑Stack E‑commerce** – Integrated Stripe payments, modular REST API, and Firebase for rapid prototyping (React, Node.js).
-*   **📱 AI Focus Training App** – Productivity app built with React, TypeScript, Redux Toolkit, and AI‑enhanced features.
+-   **📧 Custom Email Infrastructure** – Deployed full SMTP/IMAP system with Mailcow, SPF, DKIM, DMARC for high deliverability.
+-   **🤖 AI Legal Assistant (RAG on Azure)** – Built a citation‑grounded AI assistant using RAG pipelines with FastAPI, Azure OpenAI, and OCR.
+-   **🛍️ Full‑Stack E‑commerce** – Integrated Stripe payments, modular REST API, and Firebase for rapid prototyping (React, Node.js).
+-   **📱 AI Focus Training App** – Productivity app built with React, TypeScript, Redux Toolkit, and AI‑enhanced features.
 
 ---
 
 ### 🏅 Achievements & Education
 
-*   **✅ 440+ LeetCode problems solved** – strong DSA foundation.
-*   **✅ Selected into A2SV** (Google‑backed program for top African talent).
-*   **🎓 B.Sc. Computer Science** – Addis Ababa University (Top 10 in Africa).
+-   **✅ 440+ LeetCode problems solved** – strong DSA foundation.
+-   **✅ Selected into A2SV** (Google‑backed program for top African talent).
+-   **🎓 B.Sc. Computer Science** – Addis Ababa University (Top 10 in Africa).
 
 ---
 
@@ -105,8 +105,8 @@
 
 <p align="center">
   <a href="https://github.com/gadisa16">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gadisa16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadisa16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats-zeta-five-79.vercel.app/api?username=gadisa16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats-zeta-five-79.vercel.app/api/top-langs/?username=gadisa16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
   </a>
 </p>
 
